@@ -1,6 +1,6 @@
 {
-    "execution_mode": "web",
-    "level_elevation": 0,
+    "execution_mode": "local",
+    "level_elevation": 14560,
     "multilayer_wall": true,
     "transmission_value": 60,
     "write_results": false
